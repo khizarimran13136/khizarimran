@@ -1,3 +1,4 @@
+![logo](https://github.com/khizarimran13136/khizarimran/blob/main/khizar%20cover.jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Khizar+Imran;Passionate+Flutter+Developer" alt="Typing SVG" />
 </h1>
